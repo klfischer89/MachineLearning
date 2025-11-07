@@ -14,6 +14,8 @@ The aim is to demonstrate the basic steps of a data science project—from data 
 - seaborn
 - scikit-learn
 
+*note that sklearn is decprecated, use scikit-earn instead*
+
 To install required packages:
 
 pip install numpy pandas seaborn scikit-learn
