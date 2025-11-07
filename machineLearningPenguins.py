@@ -40,3 +40,5 @@ predictions = clf.predict(X_test)
 
 # Evaluate the model's accuracy
 accuracy_score(predictions, y_test)
+# Output the accuracy
+print("Accuracy:", accuracy_score(predictions, y_test))
